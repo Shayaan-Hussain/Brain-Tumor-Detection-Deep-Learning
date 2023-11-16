@@ -1,6 +1,6 @@
 # Brain Tumor Detection using modified VGG-19 and InceptionResnetV2
 
-***IEEE Publication :*** This project was presented in International Conference on Industrial Electronics: Developments and Applications
+***IEEE Publication :*** https://ieeexplore.ieee.org/document/10295200
 
 ## ***About the Project:***
 Two pre-trained models, namely VGG-19 and Inception-ResNet V2 were modified to classify a Brain MRI Image as Tumor or Non Tumor.<br/><br/>
